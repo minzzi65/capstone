@@ -1,0 +1,8 @@
+path: C:\Users\Administrator\minji_forder\dataset__1
+
+train: C:\Users\Administrator\minji_forder\dataset__1\train\images
+val: C:\Users\Administrator\minji_forder\dataset__1\val\images
+test: C:\Users\Administrator\minji_forder\dataset__1\test\images
+
+nc: 4
+names: ["water_deer", "wild_boar", "roe_deer", "person"]
